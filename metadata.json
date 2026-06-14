@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Dân cư Thôn Tân An",
+  "description": "Hệ thống quản lý hộ khẩu, nhân khẩu và biến động dân cư thôn Tân An. Tích hợp quản lý biến động, thống kê số liệu, phân quyền cán bộ và sao lưu dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
